@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+div
+{
+    text-align : center;
+    margin-left : 17.5%;
+    margin-right : 19%;
+    margin-top : 10%;
+    padding : 1%;
+    padding-top : 0%;
+    font-family:'Times New Roman';
+}
+
+.a{
+    color: rgb(2, 122, 116);
+}
+.b{
+    color: rgb(180, 61, 17);
+}
+.c{
+    color: rgb(141, 20, 141);
+}
+.d{
+    color: rgb(39, 253, 10);
+}
+.e{
+    color: rgb(255, 7, 7);
+}
